@@ -3,12 +3,13 @@
 
 # LeetCode
 
-My solution for leetcode(9/210)
+My solution for leetcode(10/210)
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
 | 21  | Merge Two Sorted List      | C++  | Easy
 | 61  | Rotate List           | C++  | Medium 
+| 82  | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii)          | C++  | Medium 
 | 83  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)          | C++  | Easy
 | 86  | [Partition List](https://leetcode.com/problems/partition-list/)          | C++  | Medium 
 | 92  | [reverse-linked-list-ii](https://leetcode.com/problems/reverse-linked-list-ii)          | C++  | Medium 
