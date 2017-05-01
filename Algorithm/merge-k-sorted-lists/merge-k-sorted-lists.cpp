@@ -14,6 +14,40 @@ struct ListNode {
 
 class Solution {
 public:
+    class compareList{
+        public:
+        bool operator() (ListNode* l1, ListNode* l2) const{
+            return l1->val > l2->val;
+        }
+    };
+    ListNode *mergeKLists(vector<ListNode *> &lists) {
+        if ( lists.size() == 0 ) return NULL;
+        if ( lists.size() == 1 ) return lists[0];
+        
+        priority_queue<ListNode*, vector<ListNode*>, compareList > q;
+        for( int i = 0; i < lists.size(); ++i){
+            if( lists[i] != NULL )
+                q.push(lists[i]);
+        }
+        
+        ListNode node(0);
+        ListNode *head = &node;
+        
+        while ( !q.empty() ){
+            head->next = q.top();
+            q.pop();
+            head = head->next;
+            if ( head->next != NULL )
+                q.push(head->next);
+        }
+        return node.next;
+               
+    }
+    
+};//nlog(k)
+
+class Solution {
+public:
     ListNode *mergeKLists(vector<ListNode *> &lists) {
         if ( lists.size() == 0 ) return NULL;
         ListNode* head = lists[0];
@@ -44,6 +78,6 @@ public:
         
         return node.next;
     }
-};
+};//n^2log(k)
 
 
