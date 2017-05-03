@@ -28,3 +28,4 @@ My solution for leetcode(22/148)
 | 141 | [linked_list_circle_2](https://leetcode.com/problems/linked-list-cycle-ii/)  | C++  | Medium
 | 142 | [linked_list_cycle](https://leetcode.com/problems/linked-list-cycle/)     | C++  | Medium
 | 143 | [reorderList](https://leetcode.com/problems/reorder-list/) | C++  | Medium 
+| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | C++  | Medium 
