@@ -3,7 +3,7 @@
 
 # LeetCode
 
-My solution for leetcode(22/148)
+My solution for leetcode(24/148)
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
@@ -29,3 +29,4 @@ My solution for leetcode(22/148)
 | 142 | [linked_list_cycle](https://leetcode.com/problems/linked-list-cycle/)     | C++  | Medium
 | 143 | [reorderList](https://leetcode.com/problems/reorder-list/) | C++  | Medium 
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | C++  | Medium 
+| 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | C++  | Hard
