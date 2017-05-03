@@ -18,6 +18,7 @@ My solution for leetcode(20/148)
 | 83  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)          | C++  | Easy
 | 86  | [Partition List](https://leetcode.com/problems/partition-list/)          | C++  | Medium 
 | 92  | [reverse-linked-list-ii](https://leetcode.com/problems/reverse-linked-list-ii)          | C++  | Medium 
+| 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | C++  | Easy
 | 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | C++  | Medium
 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | C++  | Medium
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | C++  | Medium
