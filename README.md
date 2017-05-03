@@ -17,6 +17,8 @@ My solution for leetcode(24/148)
 | 82  | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii)          | C++  | Medium 
 | 83  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)          | C++  | Easy
 | 86  | [Partition List](https://leetcode.com/problems/partition-list/)          | C++  | Medium 
+
+| 94  | [binary-tree-inorder-traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)          | C++  | Medium 
 | 92  | [reverse-linked-list-ii](https://leetcode.com/problems/reverse-linked-list-ii)          | C++  | Medium 
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | C++  | Easy
 | 113 | [Path Sum 2](https://leetcode.com/problems/path-sum-ii/) | C++  | Medium
