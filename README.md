@@ -20,6 +20,7 @@ My solution for leetcode(24/148)
 | 94  | [binary-tree-inorder-traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)          | C++  | Medium 
 | 92  | [reverse-linked-list-ii](https://leetcode.com/problems/reverse-linked-list-ii)          | C++  | Medium
 | 98  | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)          | C++  | Medium
+| 110 | [Balanced Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | C++  | Easy
 | 112 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | C++  | Easy
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | C++  | Easy
 | 113 | [Path Sum 2](https://leetcode.com/problems/path-sum-ii/) | C++  | Medium
