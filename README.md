@@ -3,7 +3,7 @@
 
 # LeetCode
 
-My solution for leetcode(24/148)
+My solution for leetcode(28/148)
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
