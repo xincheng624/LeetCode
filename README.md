@@ -21,6 +21,7 @@ My solution for leetcode(30/148)
 | 92  | [reverse-linked-list-ii](https://leetcode.com/problems/reverse-linked-list-ii)          | C++  | Medium
 | 96  | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)          | C++  | Medium
 | 98  | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)          | C++  | Medium
+| 99  | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)          | C++  |Hard
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | C++  | Medium
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | C++  | Medium
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | C++  | Easy
