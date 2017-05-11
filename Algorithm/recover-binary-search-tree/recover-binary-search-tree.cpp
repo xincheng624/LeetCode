@@ -1,6 +1,5 @@
 #include <iostream>
-#include <vector>
-#include <queue>
+
 using namespace std;
 //Definition for binary tree
 struct TreeNode {
