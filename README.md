@@ -25,6 +25,8 @@ My solution for leetcode(32/148)
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/)          | C++  |Easy
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | C++  | Medium
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | C++  | Medium
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | C++  | Easy
+| 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | C++  | Medium
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | C++  | Easy
 | 112 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | C++  | Easy
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | C++  | Easy
